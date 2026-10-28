@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Actividad2</string>
+    <string name="desc_animal2">perro</string>
+    <string name="desc_animal1">gato</string>
+    <string name="desc_persona3">persona 1</string>
+    <string name="desc_persona4">persona 4</string>
+    <string name="desc_persona5">persona 5\n</string>
+    <string name="desc_persona2">persona 2\n</string>
+    <string name="desc_persona1">persona 1 si \n</string>
+</resources>
